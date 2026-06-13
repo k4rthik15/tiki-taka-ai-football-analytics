@@ -8,7 +8,7 @@ Tiki Taka is an AI-powered football analytics platform designed to extract meani
 ⸻
 
 Features
-	•	Player Detection and Tracking\n
+	•	Player Detection and Tracking \n
 	•	Ball Tracking
 	•	Team Identification
 	•	Heatmap Generation
